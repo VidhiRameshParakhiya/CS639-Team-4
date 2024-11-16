@@ -6,17 +6,17 @@ The Mental Healthcare App is a digital wellness companion designed to help users
 This app stands out with its focus on simplicity, real-time support, and personalized care. It aims to make emotional self-care accessible to everyone, fostering better mental health practices and helping users build resilience in their daily lives. With its intuitive interface and science-backed techniques, the app serves as a practical tool for enhancing emotional balance and reducing stress.
 
 ## Major Features
-Mood Selection:
+- Mood Selection:
 Users choose their current emotional state from predefined options (Happy, Sad, Depressed, Anxious).
- Personalized Activity Suggestions:
+Personalized Activity Suggestions:
 Each mood generates specific activities, e.g., guided meditation for anxiety or journaling for sadness.
-Mood Tracker:
+- Mood Tracker:
 Users log their emotional state daily, enabling trend analysis over time.
 Reminders & Notifications:
 Gentle prompts to engage with suggested activities or log moods.
-Resource Hub:
+- Resource Hub:
 Access to curated articles, videos, and tips on emotional wellness.
- Future Integration (Optional):
+- Future Integration (Optional):
 Compatibility with wearables to monitor stress levels and heart rate for real-time suggestions.
 Unique Aspects OF Solution
 
