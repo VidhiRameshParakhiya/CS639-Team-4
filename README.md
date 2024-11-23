@@ -3,8 +3,8 @@
 [Click here for document](https://docs.google.com/document/d/1AehQZQm7d2KNT1E8Yo1ksM4TPzkNFkopJygaZW_1S2A/edit?tab=t.0)
 
 # Description
-The Mental Healthcare App is a digital wellness companion designed to help users navigate and manage their emotions effectively. By offering personalized activity suggestions tailored to the user's current emotional state, the app empowers individuals to take proactive steps toward improving their mental well-being. Users can select from emotional states such as happy, sad, depressed, or anxious, and receive actionable recommendations like dancing, journaling, relaxation exercises, or guided meditations.
-This app stands out with its focus on simplicity, real-time support, and personalized care. It aims to make emotional self-care accessible to everyone, fostering better mental health practices and helping users build resilience in their daily lives. With its intuitive interface and science-backed techniques, the app serves as a practical tool for enhancing emotional balance and reducing stress.
+SoulSync is a unique digital wellness tool that helps people effectively control their emotions. Users can choose from a variety of activities, such as writing, guided meditation, or ways to relax, based on their mood: happy, sad, depressed, or anxious. 
+The app offers a feed with videos and articles about mindfulness and mental health, as well as a mood tracker to observe emotional changes over time. SoulSync improves durability and balance in daily life by making emotional self-care easy, accessible, and efficient with its user-friendly interface.
 
 ## Major Features
 - Mood Selection:
