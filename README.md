@@ -1,6 +1,6 @@
 # SOULSYNC (Mentalhealth app)
 # Document link:
-[Click here to view the document](https://docs.google.com/document/d/1AehQZQm7d2KNT1E8Yo1ksM4TPzkNFkopJygaZW_1S2A/edit?tab=t.0)
+[Click here for document](https://docs.google.com/document/d/1AehQZQm7d2KNT1E8Yo1ksM4TPzkNFkopJygaZW_1S2A/edit?tab=t.0)
 
 # Description
 The Mental Healthcare App is a digital wellness companion designed to help users navigate and manage their emotions effectively. By offering personalized activity suggestions tailored to the user's current emotional state, the app empowers individuals to take proactive steps toward improving their mental well-being. Users can select from emotional states such as happy, sad, depressed, or anxious, and receive actionable recommendations like dancing, journaling, relaxation exercises, or guided meditations.
