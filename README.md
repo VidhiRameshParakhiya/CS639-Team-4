@@ -1,6 +1,6 @@
 # SOULSYNC (Mentalhealth app)
 # Document link:
-[Click here for document](https://docs.google.com/document/d/1AehQZQm7d2KNT1E8Yo1ksM4TPzkNFkopJygaZW_1S2A/edit?tab=t.0)
+[SoulSync Documentation](https://docs.google.com/document/d/1AehQZQm7d2KNT1E8Yo1ksM4TPzkNFkopJygaZW_1S2A/edit?tab=t.0)
 
 # Description
 SoulSync is a unique digital wellness tool that helps people effectively control their emotions. Users can choose from a variety of activities, such as writing, guided meditation, or ways to relax, based on their mood: happy, sad, depressed, or anxious. 
