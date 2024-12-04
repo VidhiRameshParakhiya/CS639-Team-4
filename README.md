@@ -4,7 +4,6 @@
 # SoulSync Design:
 [SoulSync Design](https://www.figma.com/design/4UtBDGYVxjxeSjLXmDY4Hk/SoulSync?node-id=19-167&node-type=frame)
 # Description
-SoulSync is a unique digital wellness tool that helps people effectively control their emotions. Users can choose from a variety of activities, such as writing, guided meditation, or ways to relax, based on their mood: happy, sad, depressed, or anxious. 
-The app offers a feed with videos and articles about mindfulness and mental health, as well as a mood tracker to observe emotional changes over time. SoulSync improves durability and balance in daily life by making emotional self-care easy, accessible, and efficient with its user-friendly interface.
-
+SoulSync is a digital wellness app that helps you manage your emotions. It offers different activities like writing, guided meditation, and relaxation exercises based on how you're feeling—whether happy, sad, anxious, or depressed. 
+The app also has a feed with videos and articles about mindfulness and mental health, plus a mood tracker to help you see how your emotions change over time. SoulSync makes it easy to take care of your emotions and helps you stay balanced in everyday life with its simple and user-friendly design.
 
