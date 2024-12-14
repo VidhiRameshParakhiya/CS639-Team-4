@@ -8,4 +8,4 @@ The app also has a feed with videos and articles about mindfulness and mental he
 # <h3> SoulSync Design <h3/>
 [SoulSync Design](https://www.figma.com/design/4UtBDGYVxjxeSjLXmDY4Hk/SoulSync?node-id=19-167&node-type=frame)
 # <h3> SoulSync PPT <h3/>
-[SoulSync PPT](https://docs.google.com/presentation/d/1wCb3SGizdcAo-iEuWsUWFeteHD3PgsPkRKyeLtCKUNI/edit#slide=id.gc6f90357f_0_0)
+[SoulSync PPT](https://docs.google.com/presentation/d/1IhBIu-FIMR1rlWR8QVuhfgL2gehuPMRAYsLln3xIPYM/edit#slide=id.gc6f90357f_0_0)
